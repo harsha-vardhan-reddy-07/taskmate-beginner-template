@@ -7,6 +7,12 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 </head>
 <body>
+    
+    <!-- Alert -->
+<!--            <div class="alert alert-success alert-dismissible fade show" role="alert" style="position: absolute; top:10vh; right:2vw;">
+           <strong>Success!!</strong> Data added to the database...!
+           <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+           </div> -->
 
     <!-- Nav bar -->
     <nav class="navbar navbar-expand-lg bg-dark">
@@ -14,6 +20,7 @@
           <a class="navbar-brand" href="#" style="font-weight: bolder; color: aqua;  font-size:1.5rem;">Taskmate</a>
         </div>
     </nav>
+   
    
 
     <!-- Create Task (Form) -->
