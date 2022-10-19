@@ -9,7 +9,6 @@
 <body>
 
     <!-- Nav bar -->
-
     <nav class="navbar navbar-expand-lg bg-dark">
         <div class="container-fluid">
           <a class="navbar-brand" href="#" style="font-weight: bolder; color: aqua;  font-size:1.5rem;">Taskmate</a>
