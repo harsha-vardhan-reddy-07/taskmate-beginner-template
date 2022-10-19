@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Taskmate</title>
@@ -18,8 +18,7 @@
 
     <!-- Create Task (Form) -->
 
-
-    <form style="width: 30vw; text-align: center; margin: 5vh 0 0 35vw;">
+  <form style="width: 30vw; text-align: center; margin: 5vh 0 0 35vw;">
         <div class="mb-3">
           <input type="text" class="form-control" id="nameInput" name="name" placeholder="Enter your name">
         </div>
@@ -28,9 +27,9 @@
         </div>
         <div class="mb-3">
             <input type="text" class="form-control" id="task" name="task" placeholder="Task">
-          </div>
+        </div>
         <button type="submit" class="btn btn-primary" name="submit">Add task</button>
-    </form>
+   </form>
 
 
     <!-- Display Data (table) -->
@@ -48,17 +47,17 @@
         </thead>
         <tbody class="table-group-divider">
             <tr>
-            <td>1</th>
+            <td>1</td>
             <td>Alexa</td>
             <td>IOT</td>
             <td>Turn on all the lights</td>
             <td><button class="btn btn-primary" >edit</button><button class="btn btn-danger" style="margin-left: 10px;">delete</button></td>
             </tr>
         </tbody>
-    </table>
+   </table>
 
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-  </body>
+</body>
 </html>
