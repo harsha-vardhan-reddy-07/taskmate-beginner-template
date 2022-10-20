@@ -9,7 +9,7 @@
 <body>
     
     <!-- Alert -->
-<!--            <div class="alert alert-success alert-dismissible fade show" role="alert" style="position: absolute; top:10vh; right:2vw;">
+     <!--  <div class="alert alert-success alert-dismissible fade show" role="alert" style="position: absolute; top:10vh; right:2vw;">
            <strong>Success!!</strong> Data added to the database...!
            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
            </div> -->
@@ -49,7 +49,7 @@
             <th scope="col">Name</th>
             <th scope="col">Department</th>
             <th scope="col">Task</th>
-            <th scope="col">Edit/Delete</th>
+            <th scope="col">Delete</th>
             </tr>
         </thead>
         <tbody class="table-group-divider">
@@ -57,8 +57,8 @@
             <td>1</td>
             <td>Alexa</td>
             <td>IOT</td>
-            <td>Turn on all the lights</td>
-            <td><button class="btn btn-primary" >edit</button><button class="btn btn-danger" style="margin-left: 10px;">delete</button></td>
+            <td>Aa fan on che</td>
+            <td><button class="btn btn-danger" style="margin-left: 10px;">delete</button></td>
             </tr>
         </tbody>
    </table>
